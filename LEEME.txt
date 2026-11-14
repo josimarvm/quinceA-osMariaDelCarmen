@@ -1,0 +1,9 @@
+INVITACIÓN XV AÑOS - LIBRO DE CUENTOS
+
+1. Descomprime esta carpeta.
+2. Abre index.html en Chrome, Edge o Firefox para ver la invitación.
+3. Para publicarla, sube TODO el contenido de esta carpeta a tu hosting (por ejemplo Netlify o GitHub Pages).
+
+Incluye: libro interactivo por capítulos, fotografías, música, cuenta regresiva, ubicación y confirmación por WhatsApp.
+Datos conservados: sábado 5 de diciembre de 2026, 20:00 horas, Eventos Jiseel.
+WhatsApp de confirmación configurado: +591 73647756.
